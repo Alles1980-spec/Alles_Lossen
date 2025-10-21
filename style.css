@@ -7,11 +7,11 @@ body {
     width: 300px;
     margin: 50px auto;
     padding: 20px;
-    background-color: maroon ;
+    background-color: #330000 !important ;
     border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,1);
+    box-shadow: 0 4px 8px rgba(0,0,0,5);
 }
 .kartu-profil img {
-  width: 150px;
-  border-radius:50%;
+  width: 100px;
+  border-radius:15px;
 }
